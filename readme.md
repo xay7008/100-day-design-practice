@@ -8,7 +8,7 @@
 ## 4day
 ![4](https://github.com/xay7008/100-day-design-practice/blob/master/res/4day.png)
 ## 5day
-![5]((https://github.com/xay7008/100-day-design-practice/blob/master/res/5day.png)
+![5](https://github.com/xay7008/100-day-design-practice/blob/master/res/5day.png)
 ## 6day
-![6]((https://github.com/xay7008/100-day-design-practice/blob/master/res/6day.png)
+![6](https://github.com/xay7008/100-day-design-practice/blob/master/res/6day.png)
 ## 7day
